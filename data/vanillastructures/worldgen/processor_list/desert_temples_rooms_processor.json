@@ -1,38 +1,74 @@
 {
     "processors": [
-        {
-            "processor_type": "minecraft:capped",
-            "limit": {
-              "type": "minecraft:uniform",
-              "value": {
-                "min_inclusive": 6,
-                "max_inclusive": 8
-              }
-            },
-            "delegate": {
-              "processor_type": "minecraft:rule",
-              "rules": [
-                {
-                  "location_predicate": {
-                    "predicate_type": "minecraft:always_true"
-                  },
-                  "input_predicate": {
-                    "predicate_type": "minecraft:block_match",
-                    "block": "minecraft:sand"
-                  },
-                  "output_state": {
-                    "Name": "minecraft:suspicious_sand",
-                    "Properties": {
-                      "dusted": "0"
-                    }
-                  },
-                  "block_entity_modifier": {
-                    "type": "minecraft:append_loot",
-                    "loot_table": "minecraft:archaeology/desert_pyramid"
-                  }
+      {
+        "processor_type": "minecraft:capped",
+        "limit": {
+          "type": "minecraft:uniform",
+          "value": {
+            "min_inclusive": 1,
+            "max_inclusive": 2
+          }
+        },
+        "delegate": {
+          "processor_type": "minecraft:rule",
+          "rules": [
+            {
+              "location_predicate": {
+                "predicate_type": "minecraft:always_true"
+              },
+              "input_predicate": {
+                "predicate_type": "minecraft:block_match",
+                "block": "minecraft:sandstone_stairs"
+              },
+              "output_state": {
+                "Name": "minecraft:decorated_pot",
+                "Properties": {
+                  "cracked": "true",
+                  "facing": "west",
+                  "waterlogged": "false"
                 }
-              ]
+              },
+              "block_entity_modifier": {
+                "type": "minecraft:append_loot",
+                "loot_table": "vanillastructures:chest/desert/temples_pot"
+              }
             }
+          ]
         }
+      },
+      {
+        "processor_type": "minecraft:capped",
+        "limit": {
+          "type": "minecraft:uniform",
+          "value": {
+            "min_inclusive": 8,
+            "max_inclusive": 10
+          }
+        },
+        "delegate": {
+          "processor_type": "minecraft:rule",
+          "rules": [
+            {
+              "location_predicate": {
+                "predicate_type": "minecraft:always_true"
+              },
+              "input_predicate": {
+                "predicate_type": "minecraft:block_match",
+                "block": "minecraft:sand"
+              },
+              "output_state": {
+                "Name": "minecraft:suspicious_sand",
+                "Properties": {
+                  "dusted": "0"
+                }
+              },
+              "block_entity_modifier": {
+                "type": "minecraft:append_loot",
+                "loot_table": "vanillastructures:archaeology/desert/temples_archaeology"
+              }
+            }
+          ]
+        }
+      }
     ]
 }

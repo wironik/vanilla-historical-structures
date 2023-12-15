@@ -1,6 +1,8 @@
 {
     "processors": [
       {
+        "limit": 1,
+        "processor_type": "minecraft:capped",
         "delegate": {
           "processor_type": "minecraft:rule",
           "rules": [
@@ -21,9 +23,7 @@
               }
             }
           ]
-        },
-        "limit": 1,
-        "processor_type": "minecraft:capped"
+        }
       }
     ]
 }

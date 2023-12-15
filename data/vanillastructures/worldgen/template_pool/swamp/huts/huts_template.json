@@ -1,7 +1,7 @@
 {
     "elements": [
         {
-            "weight": 3,
+            "weight": 2,
             "element": {
                 "element_type": "minecraft:empty_pool_element"
             }

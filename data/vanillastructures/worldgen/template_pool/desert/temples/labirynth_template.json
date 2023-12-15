@@ -59,7 +59,7 @@
 			"element": {
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
-				"processors": "minecraft:empty",
+				"processors": "vanillastructures:desert_temples_pot_processor",
 				"location": "vanillastructures:desert/temples/vase"
 			},
 			"weight": 3
