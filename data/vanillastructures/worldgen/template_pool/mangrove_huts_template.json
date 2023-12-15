@@ -1,0 +1,59 @@
+{
+    "elements": [
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:mangrove_huts_processor",
+                "location": "vanillastructures:mangrove_huts/small_hut_1"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:mangrove_huts_processor",
+                "location": "vanillastructures:mangrove_huts/small_hut_2"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:mangrove_huts_processor",
+                "location": "vanillastructures:mangrove_huts/small_hut_3"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:mangrove_huts_processor",
+                "location": "vanillastructures:mangrove_huts/hut_1"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:mangrove_huts_processor",
+                "location": "vanillastructures:mangrove_huts/hut_2"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:mangrove_huts_processor",
+                "location": "vanillastructures:mangrove_huts/hut_3"
+            }
+        }
+    ],
+    "fallback": "minecraft:empty"
+}

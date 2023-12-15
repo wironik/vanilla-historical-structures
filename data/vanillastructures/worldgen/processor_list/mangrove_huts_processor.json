@@ -1,0 +1,29 @@
+{
+    "processors": [
+      {
+        "delegate": {
+          "processor_type": "minecraft:rule",
+          "rules": [
+            {
+              "block_entity_modifier": {
+                "type": "minecraft:append_loot",
+                "loot_table": "vanillastructures:chest/mangrove_huts_chest"
+              },
+              "input_predicate": {
+                "predicate_type": "minecraft:block_match",
+                "block": "minecraft:chest"
+              },
+              "location_predicate": {
+                "predicate_type": "minecraft:always_true"
+              },
+              "output_state": {
+                "Name": "minecraft:chest"
+              }
+            }
+          ]
+        },
+        "limit": 1,
+        "processor_type": "minecraft:capped"
+      }
+    ]
+}
