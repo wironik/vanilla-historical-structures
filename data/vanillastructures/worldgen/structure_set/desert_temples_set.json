@@ -1,0 +1,14 @@
+{
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 628565,
+      "separation": 8,
+      "spacing": 32
+    },
+    "structures": [
+      {
+        "structure": "vanillastructures:desert/temples",
+        "weight": 1
+      }
+    ]
+}

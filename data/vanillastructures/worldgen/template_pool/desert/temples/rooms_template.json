@@ -1,0 +1,41 @@
+{
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:desert_temples_rooms_processor",
+				"location": "vanillastructures:desert/temples/room_1"
+			},
+			"weight": 1
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:desert_temples_rooms_processor",
+				"location": "vanillastructures:desert/temples/room_2"
+			},
+			"weight": 1
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:desert_temples_rooms_processor",
+				"location": "vanillastructures:desert/temples/big_room_1"
+			},
+			"weight": 1
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:desert_temples_rooms_processor",
+				"location": "vanillastructures:desert/temples/big_room_2"
+			},
+			"weight": 1
+		}
+    ]
+}

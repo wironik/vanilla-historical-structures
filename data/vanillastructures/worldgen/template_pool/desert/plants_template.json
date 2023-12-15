@@ -1,0 +1,122 @@
+{
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/plants/big_cactus_1"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/plants/big_cactus_2"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/plants/big_cactus_3"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/plants/small_cactus_1"
+			},
+			"weight": 2
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/plants/small_cactus_2"
+			},
+			"weight": 2
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/plants/small_cactus_3"
+			},
+			"weight": 3
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/plants/small_cactus_4"
+			},
+			"weight": 3
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/plants/tree_1"
+			},
+			"weight": 2
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/plants/tree_2"
+			},
+			"weight": 2
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/plants/big_tree_1"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/plants/big_tree_2"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/plants/small_tree_1"
+			},
+			"weight": 3
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/plants/small_tree_2"
+			},
+			"weight": 3
+		}
+	]
+}

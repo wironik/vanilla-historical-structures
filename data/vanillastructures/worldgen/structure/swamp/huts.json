@@ -22,13 +22,13 @@
         "spawns": [
           {
             "type": "minecraft:witch",
-            "maxCount": 3,
+            "maxCount": 1,
             "minCount": 1,
             "weight": 1
           },
           {
             "type": "minecraft:bat",
-            "maxCount": 3,
+            "maxCount": 1,
             "minCount": 1,
             "weight": 1
           }

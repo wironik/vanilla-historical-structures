@@ -1,0 +1,14 @@
+{
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 94672,
+      "separation": 1,
+      "spacing": 7
+    },
+    "structures": [
+      {
+        "structure": "vanillastructures:desert/plants",
+        "weight": 1
+      }
+    ]
+}

@@ -44,6 +44,32 @@
           },
           {
             "input_predicate": {
+              "block": "minecraft:bone_block",
+              "predicate_type": "minecraft:random_block_match",
+              "probability": 0.5
+            },
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "output_state": {
+              "Name": "minecraft:calcite"
+            }
+          },
+          {
+            "input_predicate": {
+              "block": "minecraft:bone_block",
+              "predicate_type": "minecraft:random_block_match",
+              "probability": 0.3
+            },
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "output_state": {
+              "Name": "minecraft:diorite"
+            }
+          },
+          {
+            "input_predicate": {
               "block": "minecraft:tuff",
               "predicate_type": "minecraft:random_block_match",
               "probability": 0.3
@@ -75,8 +101,8 @@
         "limit": {
           "type": "minecraft:uniform",
           "value": {
-            "min_inclusive": 24,
-            "max_inclusive": 48
+            "min_inclusive": 72,
+            "max_inclusive": 84
           }
         },
         "delegate": {
@@ -98,7 +124,7 @@
               },
               "block_entity_modifier": {
                 "type": "minecraft:append_loot",
-                "loot_table": "vanillastructures:archaeology/beach/fossils_archaeology"
+                "loot_table": "vanillastructures:archaeology/beach/fossils/gravel_archaeology"
               }
             }
           ]
@@ -109,7 +135,7 @@
         "limit": {
           "type": "minecraft:uniform",
           "value": {
-            "min_inclusive": 1,
+            "min_inclusive": 6,
             "max_inclusive": 12
           }
         },

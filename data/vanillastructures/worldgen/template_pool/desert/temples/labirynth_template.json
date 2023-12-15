@@ -1,0 +1,86 @@
+{
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:desert_temples_base_processor",
+				"location": "vanillastructures:desert/temples/trap_chest_l"
+			},
+			"weight": 1
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:desert_temples_base_processor",
+				"location": "vanillastructures:desert/temples/chest_l"
+			},
+			"weight": 1
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/temples/emerald"
+			},
+			"weight": 1
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/temples/gold"
+			},
+			"weight": 2
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/temples/lantern"
+			},
+			"weight": 2
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/temples/husk_l"
+			},
+			"weight": 2
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/temples/vase"
+			},
+			"weight": 3
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/temples/cobweb"
+			},
+			"weight": 3
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:desert/temples/empty_l"
+			},
+			"weight": 3
+		}
+    ]
+}

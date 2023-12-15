@@ -36,8 +36,8 @@
         "limit": {
           "type": "minecraft:uniform",
           "value": {
-            "min_inclusive": 1,
-            "max_inclusive": 4
+            "min_inclusive": 3,
+            "max_inclusive": 5
           }
         },
         "delegate": {
@@ -60,6 +60,32 @@
               "block_entity_modifier": {
                 "type": "minecraft:append_loot",
                 "loot_table": "vanillastructures:archaeology/beach/decor/sand_archaeology"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "processor_type": "minecraft:capped",
+        "limit": 1,
+        "delegate": {
+          "processor_type": "minecraft:rule",
+          "rules": [
+            {
+              "location_predicate": {
+                "predicate_type": "minecraft:always_true"
+              },
+              "input_predicate": {
+                "predicate_type": "minecraft:random_block_match",
+                "block": "minecraft:magma_block",
+                "probability": 0.5
+              },
+              "output_state": {
+                "Name": "minecraft:chest"
+              },
+              "block_entity_modifier": {
+                "type": "minecraft:append_loot",
+                "loot_table": "minecraft:chests/underwater_ruin_small"
               }
             }
           ]

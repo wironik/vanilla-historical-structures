@@ -1,0 +1,59 @@
+{
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:desert_temples_base_processor",
+				"location": "vanillastructures:desert/temples/small_temple_1"
+			},
+			"weight": 6
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:desert_temples_base_processor",
+				"location": "vanillastructures:desert/temples/small_temple_2"
+			},
+			"weight": 6
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:desert_temples_base_processor",
+				"location": "vanillastructures:desert/temples/small_temple_3"
+			},
+			"weight": 6
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:desert_temples_base_processor",
+				"location": "vanillastructures:desert/temples/temple_1"
+			},
+			"weight": 4
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:desert_temples_base_processor",
+				"location": "vanillastructures:desert/temples/temple_2"
+			},
+			"weight": 4
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:desert_temples_base_processor",
+				"location": "vanillastructures:desert/temples/big_temple"
+			},
+			"weight": 1
+		}
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "processors": [
+      {
+        "processor_type": "minecraft:rule",
+        "rules": [
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:cut_sandstone",
+              "probability": 0.2
+            },
+            "output_state": {
+              "Name": "minecraft:sandstone"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:cut_sandstone",
+              "probability": 0.1
+            },
+            "output_state": {
+              "Name": "minecraft:smooth_sandstone"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "probability": 0.8,
+              "block": "minecraft:netherrack"
+            },
+            "output_state": {
+              "Name": "minecraft:tnt"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:block_match",
+              "block": "minecraft:netherrack"
+            },
+            "output_state": {
+              "Name": "minecraft:red_terracotta"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:block_match",
+              "block": "minecraft:chest"
+            },
+            "output_state": {
+              "Name": "minecraft:chest"
+            },
+            "block_entity_modifier": {
+              "type": "minecraft:append_loot",
+              "loot_table": "minecraft:chests/desert_pyramid"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:block_match",
+              "block": "minecraft:trapped_chest"
+            },
+            "output_state": {
+              "Name": "minecraft:trapped_chest"
+            },
+            "block_entity_modifier": {
+              "type": "minecraft:append_loot",
+              "loot_table": "minecraft:chests/desert_pyramid"
+            }
+          }
+        ]
+      }
+    ]
+}
+  
