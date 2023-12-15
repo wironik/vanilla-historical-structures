@@ -1,0 +1,127 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:emerald",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:blaze_powder"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:random_chance",
+            "chance": 0.5
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:red_mushroom"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:brown_mushroom"
+          }
+        ],
+        "functions": [
+          {
+            "function": "minecraft:set_count",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:stick"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:sugar"
+          }
+        ],
+        "functions": [
+          {
+            "function": "minecraft:set_count",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:redstone"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:glowstone_dust"
+          }
+        ],
+        "functions": [
+          {
+            "function": "minecraft:set_count",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "rolls": 0.5,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:potion",
+            "functions": [
+              {
+                "function": "minecraft:set_potion",
+                "id": "minecraft:swiftness"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:potion",
+            "functions": [
+              {
+                "function": "minecraft:set_potion",
+                "id": "minecraft:regeneration"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:splash_potion",
+            "functions": [
+              {
+                "function": "minecraft:set_potion",
+                "id": "minecraft:poison"
+              }
+            ]
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:random_chance",
+            "chance": 0.3
+          }
+        ]
+      }
+    ]
+}

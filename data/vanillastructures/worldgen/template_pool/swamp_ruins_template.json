@@ -1,0 +1,196 @@
+{
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor_large",
+				"location": "vanillastructures:swamp_ruins/altar"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor_large",
+				"location": "vanillastructures:swamp_ruins/fountain"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor_large",
+				"location": "vanillastructures:swamp_ruins/room_1"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor_large",
+				"location": "vanillastructures:swamp_ruins/room_2"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor_large",
+				"location": "vanillastructures:swamp_ruins/room_3"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor_large",
+				"location": "vanillastructures:swamp_ruins/arch_1"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor_large",
+				"location": "vanillastructures:swamp_ruins/arch_2"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor_large",
+				"location": "vanillastructures:swamp_ruins/arch_3"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor",
+				"location": "vanillastructures:swamp_ruins/column_1"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor",
+				"location": "vanillastructures:swamp_ruins/frog"
+			},
+			"weight": 1
+		},
+
+
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor",
+				"location": "vanillastructures:swamp_ruins/column_2"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor",
+				"location": "vanillastructures:swamp_ruins/column_3"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor",
+				"location": "vanillastructures:swamp_ruins/column_4"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor",
+				"location": "vanillastructures:swamp_ruins/ruin_1"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor",
+				"location": "vanillastructures:swamp_ruins/ruin_2"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor",
+				"location": "vanillastructures:swamp_ruins/lantern_1"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor",
+				"location": "vanillastructures:swamp_ruins/lantern_2"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor",
+				"location": "vanillastructures:swamp_ruins/lantern_3"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor",
+				"location": "vanillastructures:swamp_ruins/stone_1"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor",
+				"location": "vanillastructures:swamp_ruins/stone_2"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:swamp_ruins_processor",
+				"location": "vanillastructures:swamp_ruins/stone_3"
+			},
+			"weight": 1
+		}
+	]
+}
