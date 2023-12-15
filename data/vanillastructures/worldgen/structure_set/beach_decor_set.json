@@ -1,0 +1,18 @@
+{
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 3565,
+      "separation": 1,
+      "spacing": 8
+    },
+    "structures": [
+      {
+        "structure": "vanillastructures:beach/decor/gravel",
+        "weight": 1
+      },
+      {
+        "structure": "vanillastructures:beach/decor/sand",
+        "weight": 1
+      }
+    ]
+}

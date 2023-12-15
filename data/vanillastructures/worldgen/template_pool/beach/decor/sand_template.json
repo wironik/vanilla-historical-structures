@@ -1,0 +1,240 @@
+{
+    "elements": [
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/oak_camp"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/spruce_camp"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/birch_camp"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/jungle_camp"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/acacia_camp"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/dark_oak_camp"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/big_oak_camp"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/big_spruce_camp"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/big_birch_camp"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/big_jungle_camp"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/big_acacia_camp"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/big_dark_oak_camp"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/sandstone_1"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/sandstone_2"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/sandstone_3"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/sandstone_4"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/sandstone_5"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/sandstone_6"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/sandstone_7"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_processor",
+                "location": "vanillastructures:beach/decor/sandstone_8"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_big_processor",
+                "location": "vanillastructures:beach/decor/sand_ship_1"
+            }
+        },
+		{
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_big_processor",
+                "location": "vanillastructures:beach/decor/sand_ship_2"
+            }
+        },
+		{
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_big_processor",
+                "location": "vanillastructures:beach/decor/sand_ship_3"
+            }
+        },
+		{
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_big_processor",
+                "location": "vanillastructures:beach/decor/sand_ship_4"
+            }
+        },
+		{
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_big_processor",
+                "location": "vanillastructures:beach/decor/sand_ship_5"
+            }
+        },
+		{
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_sand_big_processor",
+                "location": "vanillastructures:beach/decor/sand_ship_6"
+            }
+        }
+
+    ],
+    "fallback": "minecraft:empty"
+}

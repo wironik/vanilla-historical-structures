@@ -1,17 +1,13 @@
 {
     "placement": {
       "type": "minecraft:random_spread",
-      "exclusion_zone": {
-        "chunk_count": 2,
-        "other_set": "vanillastructures:swamp_huts_set"
-      },
       "salt": 14357620,
-      "separation": 1,
-      "spacing": 8
+      "separation": 2,
+      "spacing": 10
     },
     "structures": [
       {
-        "structure": "vanillastructures:swamp_ruins",
+        "structure": "vanillastructures:swamp/ruins",
         "weight": 1
       }
     ]

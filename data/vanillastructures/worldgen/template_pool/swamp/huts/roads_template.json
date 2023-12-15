@@ -1,0 +1,68 @@
+{
+    "elements": [
+        {
+            "weight": 6,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "vanillastructures:swamp/huts/single_road"
+            }
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "vanillastructures:swamp/huts/small_road_1"
+            }
+        },
+		{
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "vanillastructures:swamp/huts/small_road_2"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "vanillastructures:swamp/huts/road_1"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "vanillastructures:swamp/huts/road_2"
+            }
+        },
+		{
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "vanillastructures:swamp/huts/big_road_1"
+            }
+        },
+		{
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "vanillastructures:swamp/huts/big_road_2"
+            }
+        }
+    ],
+    "fallback": "minecraft:empty"
+}

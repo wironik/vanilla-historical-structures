@@ -2,12 +2,12 @@
     "placement": {
       "type": "minecraft:random_spread",
       "salt": 124221,
-      "separation": 2,
-      "spacing": 8
+      "separation": 4,
+      "spacing": 14
     },
     "structures": [
       {
-        "structure": "vanillastructures:mangrove_huts",
+        "structure": "vanillastructures:mangrove/huts",
         "weight": 1
       }
     ]

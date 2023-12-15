@@ -1,0 +1,284 @@
+{
+    "elements": [
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/coral_1"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/coral_2"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/coral_3"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/coral_4"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/coral_5"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/coral_6"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/ruin_1"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/ruin_2"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/ruin_3"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/ruin_4"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/ruin_5"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/ruin_6"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/ruin_7"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/ruin_8"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/ruin_9"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/stone_1"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/stone_2"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/stone_3"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/stone_4"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/stone_5"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/stone_6"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/stone_7"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/stone_8"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/stone_9"
+            }
+        },
+		{
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_processor",
+                "location": "vanillastructures:beach/decor/stone_10"
+            }
+        },
+		{
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_big_processor",
+                "location": "vanillastructures:beach/decor/gravel_ship_1"
+            }
+        },
+		{
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_big_processor",
+                "location": "vanillastructures:beach/decor/gravel_ship_2"
+            }
+        },
+		{
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_big_processor",
+                "location": "vanillastructures:beach/decor/gravel_ship_3"
+            }
+        },
+		{
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_big_processor",
+                "location": "vanillastructures:beach/decor/gravel_ship_4"
+            }
+        },
+		{
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_big_processor",
+                "location": "vanillastructures:beach/decor/gravel_ship_5"
+            }
+        },
+		{
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_decor_gravel_big_processor",
+                "location": "vanillastructures:beach/decor/gravel_ship_6"
+            }
+        }
+    ],
+    "fallback": "minecraft:empty"
+}

@@ -1,0 +1,59 @@
+{
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_fossils_sand_processor",
+                "location": "vanillastructures:beach/fossils/sprut"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_fossils_sand_processor",
+                "location": "vanillastructures:beach/fossils/guardian"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_fossils_sand_processor",
+                "location": "vanillastructures:beach/fossils/fish"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_fossils_sand_processor",
+                "location": "vanillastructures:beach/fossils/snake_head"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_fossils_sand_processor",
+                "location": "vanillastructures:beach/fossils/crab"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_fossils_sand_processor",
+                "location": "vanillastructures:beach/fossils/turtle"
+            }
+        }
+    ],
+    "fallback": "minecraft:empty"
+}

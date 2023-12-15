@@ -1,0 +1,131 @@
+{
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:swamp/decor/pumkin_1"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:swamp/decor/pumkin_2"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:swamp/decor/pumkin_3"
+			},
+			"weight": 1
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:swamp/decor/stone_1"
+			},
+			"weight": 2
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:swamp/decor/stone_2"
+			},
+			"weight": 2
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:swamp/decor/stone_3"
+			},
+			"weight": 2
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:swamp/decor/stone_4"
+			},
+			"weight": 2
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:swamp/decor/pumkin_4"
+			},
+			"weight": 3
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:swamp/decor/pumkin_5"
+			},
+			"weight": 3
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:swamp/decor/small_stone_1"
+			},
+			"weight": 4
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:swamp/decor/small_stone_2"
+			},
+			"weight": 4
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:swamp/decor/small_stone_3"
+			},
+			"weight": 4
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:swamp/decor/small_stone_4"
+			},
+			"weight": 4
+		},
+		{
+			"element": {
+				"element_type": "minecraft:legacy_single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:swamp/decor/small_stone_5"
+			},
+			"weight": 4
+		}
+	]
+}

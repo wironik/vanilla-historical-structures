@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:jigsaw",
+    "start_pool":"vanillastructures:beach/decor/gravel_template",
+    "size": 7,
+    "max_distance_from_center": 80,
+    "use_expansion_hack": false,
+    "biomes": "#vanillastructures:has_structure/beach_decor_gravel_biomes",
+    "spawn_overrides": {},
+    "step": "surface_structures",
+    "project_start_to_heightmap": "WORLD_SURFACE_WG",
+    "start_height": {
+        "absolute": 0
+    },
+
+    "terrain_adaptation":"none"
+}

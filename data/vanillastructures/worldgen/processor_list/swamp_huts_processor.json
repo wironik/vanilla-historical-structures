@@ -7,7 +7,7 @@
             {
               "block_entity_modifier": {
                 "type": "minecraft:append_loot",
-                "loot_table": "vanillastructures:chest/swamp_huts_chest"
+                "loot_table": "vanillastructures:chest/swamp/huts_chest"
               },
               "input_predicate": {
                 "predicate_type": "minecraft:block_match",

@@ -1,0 +1,59 @@
+{
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_fossils_gravel_processor",
+                "location": "vanillastructures:beach/fossils/sprut"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_fossils_gravel_processor",
+                "location": "vanillastructures:beach/fossils/guardian"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_fossils_gravel_processor",
+                "location": "vanillastructures:beach/fossils/snake_2"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_fossils_gravel_processor",
+                "location": "vanillastructures:beach/fossils/snake_tail"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_fossils_gravel_processor",
+                "location": "vanillastructures:beach/fossils/swordfish"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "vanillastructures:beach_fossils_gravel_processor",
+                "location": "vanillastructures:beach/fossils/whale"
+            }
+        }
+    ],
+    "fallback": "minecraft:empty"
+}

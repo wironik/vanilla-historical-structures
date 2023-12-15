@@ -85,7 +85,7 @@
               },
               "block_entity_modifier": {
                 "type": "minecraft:append_loot",
-                "loot_table": "vanillastructures:archaeology/mangrove_ruins_archaeology"
+                "loot_table": "vanillastructures:archaeology/mangrove/ruins_archaeology"
               }
             }
           ]

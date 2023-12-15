@@ -7,7 +7,7 @@
     },
     "structures": [
       {
-        "structure": "vanillastructures:mangrove_ruins",
+        "structure": "vanillastructures:mangrove/ruins",
         "weight": 1
       }
     ]
