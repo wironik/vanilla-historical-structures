@@ -1,0 +1,24 @@
+{
+	"fallback": "minecraft:empty",
+	"elements": [
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:cave/spawners/common_spider"
+			},
+			"weight": 8
+		},
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "vanillastructures:cave/spawners/common_cave_spider"
+			},
+			"weight": 1
+		}
+		
+    ]
+}

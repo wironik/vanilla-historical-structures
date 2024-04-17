@@ -1,0 +1,88 @@
+{
+    "processors": [
+      {
+        "processor_type": "minecraft:capped",
+        "limit": {
+          "type": "minecraft:uniform",
+          "value": {
+            "min_inclusive": 6,
+            "max_inclusive": 12
+          }
+        },
+        "delegate": {
+          "processor_type": "minecraft:rule",
+          "rules": [
+            {
+              "location_predicate": {
+                "predicate_type": "minecraft:always_true"
+              },
+              "input_predicate": {
+                "predicate_type": "minecraft:block_match",
+                "block": "minecraft:tuff"
+              },
+              "output_state": {
+                "Name": "minecraft:gold_ore"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "processor_type": "minecraft:rule",
+        "rules": [
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:tuff",
+              "probability": 0.4
+            },
+            "output_state": {
+              "Name": "minecraft:cobblestone"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:tuff",
+              "probability": 0.1
+            },
+            "output_state": {
+              "Name": "minecraft:mossy_cobblestone"
+            }
+          }
+        ]
+      },
+      {
+        "processor_type": "minecraft:capped",
+        "limit": 2,
+        "delegate": {
+          "processor_type": "minecraft:rule",
+          "rules": [
+            {
+              "location_predicate": {
+                "predicate_type": "minecraft:always_true"
+              },
+              "input_predicate": {
+                "predicate_type": "minecraft:block_match",
+                "block": "minecraft:gravel"
+              },
+              "output_state": {
+                "Name": "minecraft:chest"
+              },
+              "block_entity_modifier": {
+                "type": "minecraft:append_loot",
+                "loot_table": "minecraft:chests/simple_dungeon"
+              }
+            }
+          ]
+        }
+      }
+    ]
+}
+  

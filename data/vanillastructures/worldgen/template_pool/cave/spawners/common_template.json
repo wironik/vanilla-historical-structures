@@ -1,0 +1,14 @@
+{
+	"fallback": "minecraft:empty",
+	"elements": [
+        {
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "vanillastructures:cave_spawners_common_processor",
+				"location": "vanillastructures:cave/spawners/spider_spawner"
+			},
+			"weight": 1
+		}
+    ]
+}

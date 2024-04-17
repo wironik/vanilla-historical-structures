@@ -1,0 +1,14 @@
+{
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 8362894,
+      "separation": 2,
+      "spacing": 12
+    },
+    "structures": [
+      {
+        "structure": "vanillastructures:cave/spawners/common",
+        "weight": 1
+      }
+    ]
+}
