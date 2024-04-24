@@ -38,7 +38,9 @@
           "value": {
             "min_inclusive": 3,
             "max_inclusive": 5
-          }
+          },
+          "min_inclusive": 3,
+          "max_inclusive": 5
         },
         "delegate": {
           "processor_type": "minecraft:rule",

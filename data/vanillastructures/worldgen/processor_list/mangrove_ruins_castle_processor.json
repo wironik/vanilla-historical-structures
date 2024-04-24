@@ -7,7 +7,9 @@
           "value": {
             "min_inclusive": 180,
             "max_inclusive": 360
-          }
+          },
+          "min_inclusive": 180,
+          "max_inclusive": 360
         },
         "delegate": {
           "processor_type": "minecraft:rule",
@@ -64,7 +66,9 @@
           "value": {
             "min_inclusive": 48,
             "max_inclusive": 56
-          }
+          },
+          "min_inclusive": 48,
+          "max_inclusive": 56
         },
         "delegate": {
           "processor_type": "minecraft:rule",
@@ -98,7 +102,9 @@
             "value": {
               "min_inclusive": 1,
               "max_inclusive": 2
-            }
+            },
+            "min_inclusive": 1,
+            "max_inclusive": 2
           },
         "delegate": {
           "processor_type": "minecraft:rule",
