@@ -6,7 +6,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:mangrove_huts_processor",
-                "location": "vanillastructures:mangrove/huts/small_hut_1"
+                "location": "vanillastructures:mangrove/huts/small_hut_1",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -15,7 +16,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:mangrove_huts_processor",
-                "location": "vanillastructures:mangrove/huts/small_hut_2"
+                "location": "vanillastructures:mangrove/huts/small_hut_2",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -24,7 +26,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:mangrove_huts_processor",
-                "location": "vanillastructures:mangrove/huts/small_hut_3"
+                "location": "vanillastructures:mangrove/huts/small_hut_3",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -33,7 +36,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:mangrove_huts_processor",
-                "location": "vanillastructures:mangrove/huts/hut_1"
+                "location": "vanillastructures:mangrove/huts/hut_1",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -42,7 +46,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:mangrove_huts_processor",
-                "location": "vanillastructures:mangrove/huts/hut_2"
+                "location": "vanillastructures:mangrove/huts/hut_2",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -51,7 +56,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:mangrove_huts_processor",
-                "location": "vanillastructures:mangrove/huts/hut_3"
+                "location": "vanillastructures:mangrove/huts/hut_3",
+                "override_liquid_settings": "apply_waterlogging"
             }
         }
     ],

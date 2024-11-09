@@ -40,6 +40,6 @@
     "start_height": {
         "absolute": -1
     },
-
+    "liquid_settings": "apply_waterlogging",
     "terrain_adaptation":"beard_thin"
   }

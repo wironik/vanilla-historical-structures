@@ -6,7 +6,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_house_processor",
-				"location": "vanillastructures:mangrove/ruins/house_1"
+				"location": "vanillastructures:mangrove/ruins/house_1",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -15,7 +16,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_decor_processor",
-				"location": "vanillastructures:mangrove/ruins/roof_1"
+				"location": "vanillastructures:mangrove/ruins/roof_1",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -24,7 +26,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_house_processor",
-				"location": "vanillastructures:mangrove/ruins/house_2"
+				"location": "vanillastructures:mangrove/ruins/house_2",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -33,7 +36,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_house_processor",
-				"location": "vanillastructures:mangrove/ruins/house_3"
+				"location": "vanillastructures:mangrove/ruins/house_3",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -42,7 +46,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_house_processor",
-				"location": "vanillastructures:mangrove/ruins/house_4"
+				"location": "vanillastructures:mangrove/ruins/house_4",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -51,7 +56,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_decor_processor",
-				"location": "vanillastructures:mangrove/ruins/roof_4"
+				"location": "vanillastructures:mangrove/ruins/roof_4",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -60,7 +66,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_house_processor",
-				"location": "vanillastructures:mangrove/ruins/house_5"
+				"location": "vanillastructures:mangrove/ruins/house_5",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -69,7 +76,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_decor_processor",
-				"location": "vanillastructures:mangrove/ruins/roof_5"
+				"location": "vanillastructures:mangrove/ruins/roof_5",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -78,7 +86,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_house_processor",
-				"location": "vanillastructures:mangrove/ruins/house_6"
+				"location": "vanillastructures:mangrove/ruins/house_6",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -87,7 +96,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_house_processor",
-				"location": "vanillastructures:mangrove/ruins/house_7"
+				"location": "vanillastructures:mangrove/ruins/house_7",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -96,7 +106,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_decor_processor",
-				"location": "vanillastructures:mangrove/ruins/roof_7"
+				"location": "vanillastructures:mangrove/ruins/roof_7",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -105,7 +116,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_house_processor",
-				"location": "vanillastructures:mangrove/ruins/house_8"
+				"location": "vanillastructures:mangrove/ruins/house_8",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -114,7 +126,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_house_processor",
-				"location": "vanillastructures:mangrove/ruins/house_9"
+				"location": "vanillastructures:mangrove/ruins/house_9",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -123,7 +136,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_decor_processor",
-				"location": "vanillastructures:mangrove/ruins/roof_9"
+				"location": "vanillastructures:mangrove/ruins/roof_9",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -132,7 +146,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_house_processor",
-				"location": "vanillastructures:mangrove/ruins/house_10"
+				"location": "vanillastructures:mangrove/ruins/house_10",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -141,7 +156,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_house_processor",
-				"location": "vanillastructures:mangrove/ruins/house_11"
+				"location": "vanillastructures:mangrove/ruins/house_11",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -150,7 +166,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_decor_processor",
-				"location": "vanillastructures:mangrove/ruins/roof_11"
+				"location": "vanillastructures:mangrove/ruins/roof_11",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -159,7 +176,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_house_processor",
-				"location": "vanillastructures:mangrove/ruins/house_12"
+				"location": "vanillastructures:mangrove/ruins/house_12",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -168,7 +186,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_house_processor",
-				"location": "vanillastructures:mangrove/ruins/house_13"
+				"location": "vanillastructures:mangrove/ruins/house_13",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -177,7 +196,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_house_processor",
-				"location": "vanillastructures:mangrove/ruins/house_14"
+				"location": "vanillastructures:mangrove/ruins/house_14",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		}

@@ -6,7 +6,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:desert_temples_base_processor",
-				"location": "vanillastructures:desert/temples/small_temple_1"
+				"location": "vanillastructures:desert/temples/small_temple_1",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 6
 		},
@@ -15,7 +16,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:desert_temples_base_processor",
-				"location": "vanillastructures:desert/temples/small_temple_2"
+				"location": "vanillastructures:desert/temples/small_temple_2",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 6
 		},
@@ -24,7 +26,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:desert_temples_base_processor",
-				"location": "vanillastructures:desert/temples/small_temple_3"
+				"location": "vanillastructures:desert/temples/small_temple_3",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 6
 		},
@@ -33,7 +36,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:desert_temples_base_processor",
-				"location": "vanillastructures:desert/temples/temple_1"
+				"location": "vanillastructures:desert/temples/temple_1",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 4
 		},
@@ -42,7 +46,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:desert_temples_base_processor",
-				"location": "vanillastructures:desert/temples/temple_2"
+				"location": "vanillastructures:desert/temples/temple_2",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 4
 		},
@@ -51,7 +56,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:desert_temples_base_processor",
-				"location": "vanillastructures:desert/temples/big_temple"
+				"location": "vanillastructures:desert/temples/big_temple",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		}

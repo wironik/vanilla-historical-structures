@@ -6,7 +6,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_fossils_sand_processor",
-                "location": "vanillastructures:beach/fossils/sprut"
+                "location": "vanillastructures:beach/fossils/sprut",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -15,7 +16,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_fossils_sand_processor",
-                "location": "vanillastructures:beach/fossils/guardian"
+                "location": "vanillastructures:beach/fossils/guardian",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -24,7 +26,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_fossils_sand_processor",
-                "location": "vanillastructures:beach/fossils/fish"
+                "location": "vanillastructures:beach/fossils/fish",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -33,7 +36,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_fossils_sand_processor",
-                "location": "vanillastructures:beach/fossils/snake_head"
+                "location": "vanillastructures:beach/fossils/snake_head",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -42,7 +46,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_fossils_sand_processor",
-                "location": "vanillastructures:beach/fossils/crab"
+                "location": "vanillastructures:beach/fossils/crab",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -51,7 +56,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_fossils_sand_processor",
-                "location": "vanillastructures:beach/fossils/turtle"
+                "location": "vanillastructures:beach/fossils/turtle",
+                "override_liquid_settings": "apply_waterlogging"
             }
         }
     ],

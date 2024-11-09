@@ -6,7 +6,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/plants/big_cactus_1"
+				"location": "vanillastructures:desert/plants/big_cactus_1",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -15,7 +16,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/plants/big_cactus_2"
+				"location": "vanillastructures:desert/plants/big_cactus_2",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -24,7 +26,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/plants/big_cactus_3"
+				"location": "vanillastructures:desert/plants/big_cactus_3",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -33,7 +36,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/plants/small_cactus_1"
+				"location": "vanillastructures:desert/plants/small_cactus_1",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 2
 		},
@@ -42,7 +46,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/plants/small_cactus_2"
+				"location": "vanillastructures:desert/plants/small_cactus_2",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 2
 		},
@@ -51,7 +56,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/plants/small_cactus_3"
+				"location": "vanillastructures:desert/plants/small_cactus_3",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 3
 		},
@@ -60,7 +66,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/plants/small_cactus_4"
+				"location": "vanillastructures:desert/plants/small_cactus_4",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 3
 		},
@@ -69,7 +76,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/plants/tree_1"
+				"location": "vanillastructures:desert/plants/tree_1",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 2
 		},
@@ -78,7 +86,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/plants/tree_2"
+				"location": "vanillastructures:desert/plants/tree_2",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 2
 		},
@@ -87,7 +96,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/plants/big_tree_1"
+				"location": "vanillastructures:desert/plants/big_tree_1",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -96,7 +106,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/plants/big_tree_2"
+				"location": "vanillastructures:desert/plants/big_tree_2",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -105,7 +116,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/plants/small_tree_1"
+				"location": "vanillastructures:desert/plants/small_tree_1",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 3
 		},
@@ -114,7 +126,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/plants/small_tree_2"
+				"location": "vanillastructures:desert/plants/small_tree_2",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 3
 		}
