@@ -6,7 +6,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:swamp/decor/pumkin_1"
+				"location": "vanillastructures:swamp/decor/pumkin_1",
+				"override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -15,7 +16,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:swamp/decor/pumkin_2"
+				"location": "vanillastructures:swamp/decor/pumkin_2",
+				"override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -24,7 +26,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:swamp/decor/pumkin_3"
+				"location": "vanillastructures:swamp/decor/pumkin_3",
+				"override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -33,7 +36,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:swamp/decor/stone_1"
+				"location": "vanillastructures:swamp/decor/stone_1",
+				"override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 2
 		},
@@ -42,7 +46,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:swamp/decor/stone_2"
+				"location": "vanillastructures:swamp/decor/stone_2",
+				"override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 2
 		},
@@ -51,7 +56,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:swamp/decor/stone_3"
+				"location": "vanillastructures:swamp/decor/stone_3",
+				"override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 2
 		},
@@ -60,7 +66,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:swamp/decor/stone_4"
+				"location": "vanillastructures:swamp/decor/stone_4",
+				"override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 2
 		},
@@ -69,7 +76,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:swamp/decor/pumkin_4"
+				"location": "vanillastructures:swamp/decor/pumkin_4",
+				"override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 3
 		},
@@ -78,7 +86,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:swamp/decor/pumkin_5"
+				"location": "vanillastructures:swamp/decor/pumkin_5",
+				"override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 3
 		},
@@ -87,7 +96,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:swamp/decor/small_stone_1"
+				"location": "vanillastructures:swamp/decor/small_stone_1",
+				"override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 4
 		},
@@ -96,7 +106,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:swamp/decor/small_stone_2"
+				"location": "vanillastructures:swamp/decor/small_stone_2",
+				"override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 4
 		},
@@ -105,7 +116,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:swamp/decor/small_stone_3"
+				"location": "vanillastructures:swamp/decor/small_stone_3",
+				"override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 4
 		},
@@ -114,7 +126,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:swamp/decor/small_stone_4"
+				"location": "vanillastructures:swamp/decor/small_stone_4",
+				"override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 4
 		},
@@ -123,7 +136,8 @@
 				"element_type": "minecraft:legacy_single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:swamp/decor/small_stone_5"
+				"location": "vanillastructures:swamp/decor/small_stone_5",
+				"override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 4
 		}

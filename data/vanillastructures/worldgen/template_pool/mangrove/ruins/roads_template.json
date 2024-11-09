@@ -6,7 +6,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_road_processor",
-				"location": "vanillastructures:mangrove/ruins/road_1"
+				"location": "vanillastructures:mangrove/ruins/road_1",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -15,7 +16,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_road_processor",
-				"location": "vanillastructures:mangrove/ruins/road_2"
+				"location": "vanillastructures:mangrove/ruins/road_2",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -24,7 +26,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_road_processor",
-				"location": "vanillastructures:mangrove/ruins/road_3"
+				"location": "vanillastructures:mangrove/ruins/road_3",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -33,7 +36,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_road_processor",
-				"location": "vanillastructures:mangrove/ruins/road_4"
+				"location": "vanillastructures:mangrove/ruins/road_4",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -42,7 +46,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_road_processor",
-				"location": "vanillastructures:mangrove/ruins/road_5"
+				"location": "vanillastructures:mangrove/ruins/road_5",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -51,7 +56,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:mangrove_ruins_road_processor",
-				"location": "vanillastructures:mangrove/ruins/road_6"
+				"location": "vanillastructures:mangrove/ruins/road_6",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		}

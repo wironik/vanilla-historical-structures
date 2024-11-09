@@ -6,7 +6,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/coral_1"
+                "location": "vanillastructures:beach/decor/coral_1",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -15,7 +16,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/coral_2"
+                "location": "vanillastructures:beach/decor/coral_2",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -24,7 +26,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/coral_3"
+                "location": "vanillastructures:beach/decor/coral_3",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -33,7 +36,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/coral_4"
+                "location": "vanillastructures:beach/decor/coral_4",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -42,7 +46,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/coral_5"
+                "location": "vanillastructures:beach/decor/coral_5",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -51,7 +56,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/coral_6"
+                "location": "vanillastructures:beach/decor/coral_6",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -60,7 +66,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/ruin_1"
+                "location": "vanillastructures:beach/decor/ruin_1",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -69,7 +76,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/ruin_2"
+                "location": "vanillastructures:beach/decor/ruin_2",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -78,7 +86,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/ruin_3"
+                "location": "vanillastructures:beach/decor/ruin_3",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -87,7 +96,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/ruin_4"
+                "location": "vanillastructures:beach/decor/ruin_4",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -96,7 +106,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/ruin_5"
+                "location": "vanillastructures:beach/decor/ruin_5",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -105,7 +116,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/ruin_6"
+                "location": "vanillastructures:beach/decor/ruin_6",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -114,7 +126,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/ruin_7"
+                "location": "vanillastructures:beach/decor/ruin_7",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -123,7 +136,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/ruin_8"
+                "location": "vanillastructures:beach/decor/ruin_8",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -132,7 +146,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/ruin_9"
+                "location": "vanillastructures:beach/decor/ruin_9",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -141,7 +156,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/stone_1"
+                "location": "vanillastructures:beach/decor/stone_1",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -150,7 +166,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/stone_2"
+                "location": "vanillastructures:beach/decor/stone_2",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -159,7 +176,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/stone_3"
+                "location": "vanillastructures:beach/decor/stone_3",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -168,7 +186,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/stone_4"
+                "location": "vanillastructures:beach/decor/stone_4",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -177,7 +196,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/stone_5"
+                "location": "vanillastructures:beach/decor/stone_5",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -186,7 +206,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/stone_6"
+                "location": "vanillastructures:beach/decor/stone_6",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -195,7 +216,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/stone_7"
+                "location": "vanillastructures:beach/decor/stone_7",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -204,7 +226,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/stone_8"
+                "location": "vanillastructures:beach/decor/stone_8",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -213,7 +236,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/stone_9"
+                "location": "vanillastructures:beach/decor/stone_9",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -222,7 +246,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_processor",
-                "location": "vanillastructures:beach/decor/stone_10"
+                "location": "vanillastructures:beach/decor/stone_10",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -231,7 +256,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_big_processor",
-                "location": "vanillastructures:beach/decor/gravel_ship_1"
+                "location": "vanillastructures:beach/decor/gravel_ship_1",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -240,7 +266,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_big_processor",
-                "location": "vanillastructures:beach/decor/gravel_ship_2"
+                "location": "vanillastructures:beach/decor/gravel_ship_2",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -249,7 +276,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_big_processor",
-                "location": "vanillastructures:beach/decor/gravel_ship_3"
+                "location": "vanillastructures:beach/decor/gravel_ship_3",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -258,7 +286,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_big_processor",
-                "location": "vanillastructures:beach/decor/gravel_ship_4"
+                "location": "vanillastructures:beach/decor/gravel_ship_4",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -267,7 +296,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_big_processor",
-                "location": "vanillastructures:beach/decor/gravel_ship_5"
+                "location": "vanillastructures:beach/decor/gravel_ship_5",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -276,7 +306,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "vanillastructures:beach_decor_gravel_big_processor",
-                "location": "vanillastructures:beach/decor/gravel_ship_6"
+                "location": "vanillastructures:beach/decor/gravel_ship_6",
+                "override_liquid_settings": "apply_waterlogging"
             }
         }
     ],

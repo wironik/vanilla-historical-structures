@@ -6,7 +6,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "minecraft:empty",
-                "location": "vanillastructures:swamp/huts/single_road"
+                "location": "vanillastructures:swamp/huts/single_road",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -15,7 +16,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "minecraft:empty",
-                "location": "vanillastructures:swamp/huts/small_road_1"
+                "location": "vanillastructures:swamp/huts/small_road_1",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -24,7 +26,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "minecraft:empty",
-                "location": "vanillastructures:swamp/huts/small_road_2"
+                "location": "vanillastructures:swamp/huts/small_road_2",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -33,7 +36,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "minecraft:empty",
-                "location": "vanillastructures:swamp/huts/road_1"
+                "location": "vanillastructures:swamp/huts/road_1",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -42,7 +46,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "minecraft:empty",
-                "location": "vanillastructures:swamp/huts/road_2"
+                "location": "vanillastructures:swamp/huts/road_2",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -51,7 +56,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "minecraft:empty",
-                "location": "vanillastructures:swamp/huts/big_road_1"
+                "location": "vanillastructures:swamp/huts/big_road_1",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
 		{
@@ -60,7 +66,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "minecraft:empty",
-                "location": "vanillastructures:swamp/huts/big_road_2"
+                "location": "vanillastructures:swamp/huts/big_road_2",
+                "override_liquid_settings": "apply_waterlogging"
             }
         }
     ],

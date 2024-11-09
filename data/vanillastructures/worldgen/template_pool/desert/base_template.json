@@ -6,7 +6,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/base/base_7x7"
+				"location": "vanillastructures:desert/base/base_7x7",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -15,7 +16,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/base/base_9x9"
+				"location": "vanillastructures:desert/base/base_9x9",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		}

@@ -11,6 +11,6 @@
     "start_height": {
         "absolute": -12
     },
-
+    "liquid_settings": "apply_waterlogging",
     "terrain_adaptation":"none"
 }

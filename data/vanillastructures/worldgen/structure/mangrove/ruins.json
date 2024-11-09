@@ -6,11 +6,11 @@
     "use_expansion_hack": false,
     "biomes": "#vanillastructures:has_structure/mangrove_ruins_biomes",
     "spawn_overrides": {},
-    "step": "underground_structures",
+    "step": "surface_structures",
     "project_start_to_heightmap": "WORLD_SURFACE_WG",
     "start_height": {
-        "absolute": -10
+        "absolute": -7
     },
-
+    "liquid_settings": "apply_waterlogging",
     "terrain_adaptation": "bury"
 }

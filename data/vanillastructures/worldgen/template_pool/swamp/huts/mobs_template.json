@@ -6,7 +6,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "minecraft:empty",
-                "location": "vanillastructures:swamp/huts/cat"
+                "location": "vanillastructures:swamp/huts/cat",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -15,7 +16,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "minecraft:empty",
-                "location": "vanillastructures:swamp/huts/witch"
+                "location": "vanillastructures:swamp/huts/witch",
+                "override_liquid_settings": "apply_waterlogging"
             }
         },
         {
@@ -24,7 +26,8 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "minecraft:empty",
-                "location": "vanillastructures:swamp/huts/witch_road"
+                "location": "vanillastructures:swamp/huts/witch_road",
+                "override_liquid_settings": "apply_waterlogging"
             }
         }
     ],

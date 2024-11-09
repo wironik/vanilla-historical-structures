@@ -13,7 +13,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/temples/husk"
+				"location": "vanillastructures:desert/temples/husk",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 4
 		},
@@ -22,7 +23,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/temples/husk_baby"
+				"location": "vanillastructures:desert/temples/husk_baby",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 3
 		},
@@ -31,7 +33,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/temples/husk_shovel"
+				"location": "vanillastructures:desert/temples/husk_shovel",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 3
 		},
@@ -40,7 +43,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/temples/husk_2"
+				"location": "vanillastructures:desert/temples/husk_2",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 2
 		},
@@ -49,7 +53,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/temples/husk_baby_2"
+				"location": "vanillastructures:desert/temples/husk_baby_2",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -58,7 +63,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/temples/husk_family"
+				"location": "vanillastructures:desert/temples/husk_family",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		}

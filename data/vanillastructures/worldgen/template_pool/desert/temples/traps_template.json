@@ -6,7 +6,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:desert_temples_base_processor",
-				"location": "vanillastructures:desert/temples/trap_chest"
+				"location": "vanillastructures:desert/temples/trap_chest",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -15,7 +16,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:desert_temples_base_processor",
-				"location": "vanillastructures:desert/temples/trap_chest_2"
+				"location": "vanillastructures:desert/temples/trap_chest_2",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -24,7 +26,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "vanillastructures:desert_temples_base_processor",
-				"location": "vanillastructures:desert/temples/trap_plate"
+				"location": "vanillastructures:desert/temples/trap_plate",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		},
@@ -33,7 +36,8 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-				"location": "vanillastructures:desert/temples/empty"
+				"location": "vanillastructures:desert/temples/empty",
+                "override_liquid_settings": "apply_waterlogging"
 			},
 			"weight": 1
 		}
